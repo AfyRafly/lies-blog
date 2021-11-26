@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 const AboutDev = () => {
   return (
     <Layout>
-      <div className="p-8 items-center gap-28 flex flex-row h-screen container mx-auto justify-center">
+      <div className="items-center gap-28 flex flex-row h-screen container">
         <div className="w-1/2">
           <p className="text-xl font-bold">
             A beautiful extension for TailwindCSS.
